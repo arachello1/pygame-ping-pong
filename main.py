@@ -1,5 +1,7 @@
 from pygame import *
 
+#Ini code Kak Dana
+
 class GameSprite(sprite.Sprite):
     def __init__(self, player, x, y, speed, width, height):
         super().__init__()
